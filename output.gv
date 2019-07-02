@@ -90,6 +90,6 @@ digraph {
 	Tallahassee -> "Daytona Beach" [label=316 color=blue]
 	MIT [label=MIT color=red]
 	Washington [label=Washington color=red]
-	"Daytona Beach" [label="Daytona Beach" color=blue]
 	Wilmington [label=Wilmington color=red]
+	"Daytona Beach" [label="Daytona Beach" color=blue]
 }
