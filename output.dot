@@ -1,0 +1,11 @@
+// Multistage Graph
+digraph {
+	joao [label=joao color=red]
+	joao -> mateus [label=2]
+	antonio [label=antonio color=blue]
+	antonio -> pedro [label=1 color=blue]
+	antonio -> joao [label=3]
+	mateus [label=mateus color=blue]
+	pedro [label=pedro color=blue]
+	pedro -> mateus [label=5 color=blue]
+}

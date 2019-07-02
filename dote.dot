@@ -1,0 +1,6 @@
+digraph {
+    "antonio" -> "pedro" [label=1]
+    "antonio" -> "joao" [label=3]
+    "pedro" -> "mateus" [label=5]
+    "joao" -> "mateus" [label=2]
+}
